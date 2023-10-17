@@ -4562,7 +4562,11 @@ template {
 }
 
 .devicon-javascript-plain.colored {
+    font-size: 170px;
     color: #f0db4f
+}
+.text-js{
+    margin-top: 50px;
 }
 
 .devicon-jetbrains-line-wordmark.colored,
@@ -5067,7 +5071,9 @@ a img {
     }
 
     .images-right img {
-        float: right
+        float: right;
+        width: 440px;
+        height: 277px;
     }
 
     .images-left {

@@ -5031,7 +5031,8 @@ a img {
 }
 
 .user-projects {
-    margin: 20px auto
+    margin: 20px auto;
+    border-bottom: 1px solid #ccc;
 }
 
 .user-projects img {
